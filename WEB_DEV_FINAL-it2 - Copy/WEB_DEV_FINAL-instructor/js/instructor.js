@@ -1,12 +1,4 @@
-// student.js
-// o Complete pending reviews
-// o Reviews should have both public and private feedback options
-// o Review score
-// o Review public feedback from peers
-// o Reports
-//      Combined feedback
-//      Overall scores 
-
+// instructor.js
 
 //global variables
 let courses = []
@@ -371,6 +363,9 @@ document.addEventListener("DOMContentLoaded", () => {
         }, 3000);
         
     });
+    
+
+    
     
     //*************************************************Reviews Tab********************************** ***********************/
     //--------------------------------------------------------------------------------------------------------------------------------------
